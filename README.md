@@ -2,4 +2,4 @@
 
 ![](https://github.com/Nikita-Dudorov/HyperFastSecondOrderMethod/blob/master/assets/abstract.png)
 
-![](https://github.com/Nikita-Dudorov/HyperFastSecondOrderMethod/blob/master/assets/refernces.png)
+![](https://github.com/Nikita-Dudorov/HyperFastSecondOrderMethod/blob/master/assets/references.png)
